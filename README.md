@@ -2,6 +2,14 @@
 I'm a college student and I've learned frontend development on my own for two years.
 I'm looking for opportunities to improve my coding skills and secure an internship.
 I can keep an active mind and hope to better strengthen my technical abilities.
+### 📊 GitHub Stats
+| <img src="https://github-readme-stats.vercel.app/api?username=SmallDuck-lang&show_icons=true&theme=dracula" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmallDuck-lang&layout=compact&theme=dracula" /> |
+| --- | --- |
+
+### 🛠️ Languages and Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,vue,react,nodejs,git,vscode" />
+</div>
 <!--
 **SmallDuck-lang/SmallDuck-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
